@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(199, 220, 255);
+}
+
+#start-btn{
+    width: 20%;
+} 
+
+#camera{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+#logo_img{
+    width: 150px;
+    border-radius: 20px;
+    border: 5px solid rgb(6, 16, 41);
+}
+
+#textbox{
+     width: 400px;
+}
+   
+
